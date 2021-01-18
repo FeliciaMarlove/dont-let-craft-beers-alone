@@ -7,9 +7,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Don't let Craft Beers alone!
 
 ## Summary
-
 The project is a recommendation tool for online beershops and recommendation apps that doesn't rely only on sales volume and frequency. The idea is to prevent only recommending already well-known beer brands to allow customers to discover recent, local, craft beers.
-
 ## Background
 
 I'm Belgian and I love craft beer! My country has a rich beer diversity and a lot of craftmen and craftwomen making beer with passion. Still, craft beer appears to be something for the "beer geeks" while well established -industrial- bestsellers sell without problems.
