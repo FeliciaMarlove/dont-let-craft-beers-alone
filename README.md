@@ -23,16 +23,16 @@ This tool would typically be implemented on beverage webshops, beer webshops, be
 There are a few beer APIs available in order to collection data about beers, but data sets could be collection from future collaborators (webshops interesting in the solution or social beer apps). 
 
 Based on the example quoted in the Building AI course, "The Yle Areena content recommender", AI methods would be:
-*Collaborative filtering algorithms
-*Deep learning
-*Reinforcement learning
+* Collaborative filtering algorithms
+* Deep learning
+* Reinforcement learning
 
 This has to be deeper thought about.
 
 ## Challenges
 
-*While some data sets exist, I don't think they're complete.
-*I'm personally facing the challenge of being totally new to statistics, AI and Python (although I have experience in programming).
+* While some data sets exist, I don't think they're complete.
+* I'm personally facing the challenge of being totally new to statistics, AI and Python (although I have experience in programming).
 
 ## What next?
 
