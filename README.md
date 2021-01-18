@@ -8,7 +8,7 @@ Don't let Craft Beers alone!
 
 ## Summary
 
-The project aims to create a recommendation tool for online beershops and recommendation apps that doesn't rely only on sales volume and frequency. The idea is to prevent only recommending already well-known beer brands to allow customers to discover recent, local, craft beers.
+The project is a recommendation tool for online beershops and recommendation apps that doesn't rely only on sales volume and frequency. The idea is to prevent only recommending already well-known beer brands to allow customers to discover recent, local, craft beers.
 
 ## Background
 
