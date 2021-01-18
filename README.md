@@ -8,9 +8,7 @@ Don't let Craft Beers alone!
 
 ## Summary
 
-The Dont' let Craft Beers alone! project aims to create a recommendation tool for online beershops and beer recommendation apps that doesn't rely only on sales volume and frequency. The idea is to prevent recommendation algorithm from only recommending already well-known beer brands to allow customers to discover recent, local, craft beers.
-
-Building AI course project
+The Dont' let Craft Beers alone! project aims to create a recommendation tool for online beershops and beer recommendation apps that doesn't rely only on sales volume and frequency. The idea is to prevent only recommending already well-known beer brands to allow customers to discover recent, local, craft beers.
 
 ## Background
 
@@ -21,7 +19,6 @@ As Covid made the online shops, including food and beverage e-shops, more and mo
 ## How is it used?
 
 This tool would typically be implemented on beverage webshops, beer webshops, beer recommendation applications or websites, social beer networks apps and websites, maybe on blogs about beer.
-
 
 ## Data sources and AI methods
 
@@ -45,4 +42,6 @@ As a beginner, I would love to collaborate with one or two people motivated by t
 Maybe some day we'll raise a craft beer together to celebrate our working solution!
 
 ## Acknowledgments
+
+Building AI course project
 
